@@ -1,0 +1,29 @@
+{
+  "name": "lumine",
+  "version": "1.0.0",
+  "description": "Lumine | Developer(s): LichKing112",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node .",
+    "format": "prettier --write ./src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LichKing112",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "getos": "^3.2.1",
+    "hastebin": "^0.2.1",
+    "is-wsl": "^2.2.0",
+    "mathjs": "^9.2.0",
+    "mongoose": "^5.11.18",
+    "numbers": "^0.7.0",
+    "wokcommands": "^1.2.8"
+  },
+  "devDependencies": {
+    "eslint": "^7.21.0",
+    "prettier": "2.2.1"
+  }
+}

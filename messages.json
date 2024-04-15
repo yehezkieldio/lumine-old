@@ -1,0 +1,14 @@
+{
+    "SYNTAX_ERROR": {
+      "english": "Pengguaan command invalid! Cara pengunaan: **`{PREFIX}{COMMAND} {ARGUMENTS}`**"
+    },
+    "NEW_LANGUAGE": {
+        "english": "Language set to `{LANGUAGE}`."
+    },
+    "EXCEPTION": {
+      "english": "Sebuah error telah terjadi saat menjalanin command ini. Issue ini telah di laporkan kepada developers."
+    },
+    "COOLDOWN": {
+      "english": "Tunggu lah {COOLDOWN} sebelum menggunakan command ini lagi."
+    }
+}
